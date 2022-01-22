@@ -1,0 +1,1 @@
+Click vào chuỗi tọa độ màn hình trong khoảng thời gian được cài đặt tương ứng

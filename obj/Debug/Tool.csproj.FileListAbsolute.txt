@@ -1,0 +1,12 @@
+D:\C#\QS\Tool\bin\Debug\Tool.exe.config
+D:\C#\QS\Tool\bin\Debug\Tool.exe
+D:\C#\QS\Tool\bin\Debug\Tool.pdb
+D:\C#\QS\Tool\obj\Debug\Tool.csprojAssemblyReference.cache
+D:\C#\QS\Tool\obj\Debug\Tool.Properties.Resources.resources
+D:\C#\QS\Tool\obj\Debug\Tool.csproj.GenerateResource.cache
+D:\C#\QS\Tool\obj\Debug\Tool.csproj.CoreCompileInputs.cache
+D:\C#\QS\Tool\obj\Debug\Tool.exe
+D:\C#\QS\Tool\obj\Debug\Tool.pdb
+D:\C#\QS\Tool\obj\Debug\Tool.Form1.resources
+D:\C#\QS\Tool\bin\Debug\KAutoHelper.dll
+D:\C#\QS\Tool\obj\Debug\Tool.csproj.CopyComplete
